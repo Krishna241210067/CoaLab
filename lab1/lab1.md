@@ -34,7 +34,7 @@ The circuits were tested by applying different input combinations and observing 
 
 ## Circuit Diagram  
 
-[Multiplexer and Encoder Design](#)  
+[Multiplexer and Encoder Design](https://github.com/Krishna241210067/CoaLab/blob/main/lab1/image.png)  
 
 ---
 
