@@ -32,7 +32,7 @@ The behavior of the circuit was carefully analyzed by observing how the carry pr
 
 ## Circuit Diagram  
 
-[Ripple Carry Adder Design](lab2/image.png)  
+[Ripple Carry Adder Design](https://github.com/Krishna241210067/CoaLab/blob/main/lab2/image.png)  
 
 ---
 
